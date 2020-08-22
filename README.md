@@ -5,9 +5,9 @@
 <h3>Things I code with</h3>
 <br/>
 <p>
-  <img alt="PHP" src="./img/php.png" width="40" />
+  <img alt="PHP" src="https://github.com/nirav-chavda/nirav-chavda/blob/master/img/php.png" width="40" />
   &nbsp;&nbsp;
-  <img alt="Laravel" src="./img/laravel.png" width="30" />
+  <img alt="Laravel" src="https://github.com/nirav-chavda/nirav-chavda/blob/master/img/laravel.png" width="30" />
   &nbsp;&nbsp;
   <img alt="Javascript" src="./img/js.png" width="30" />
   &nbsp;&nbsp;
