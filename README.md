@@ -1,8 +1,8 @@
-﻿<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
-  Hey, nice to see you.</h1>
+﻿<h1><img src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif?1471045863" width="30" />
+  Namaste ! </h1>
 
-<p>Welcome to my page! </br> I'm Nirav Chavda, Web developer from <img
-    src="https://github.com/nirav-chavda/nirav-chavda/blob/master/img/india.svg" width="13" /> <b>Gujarat, India</b>.
+<p>I'm Nirav Chavda, Web developer from <b>Gujarat, India</b> <img
+    src="https://github.com/nirav-chavda/nirav-chavda/blob/master/img/india.svg" width="13" />.
 </p>
 <h3>Things I code with</h3>
 <br />
