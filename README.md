@@ -1,16 +1,33 @@
-### Hi there 👋
+﻿<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-<!--
-**nirav-chavda/nirav-chavda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Welcome to my page! </br> I'm Nirav Chavda, Web developer from <img src=".&#x2F;img&#x2F;india.svg" width="13"/> <b>Gujarat, India</b>. </p>
+<h3>Things I code with</h3>
+<br/>
+<p>
+  <img alt="PHP" src="./img/php.png" width="30" />
+  &nbsp;&nbsp;
+  <img alt="Laravel" src="./img/laravel.png" width="30" />
+  &nbsp;&nbsp;
+  <img alt="Javascript" src="./img/js.png" width="30" />
+  &nbsp;&nbsp;
+  <img alt="MySQL" src="./img/mysql.png" width="30" />
+  &nbsp;&nbsp;
+  <img alt="Redis" src="./img/redis.png" width="30" />
+  &nbsp;&nbsp;
+  <img alt="Node JS" src="./img/nodejs.png" width="30" />
+  &nbsp;&nbsp;
+  <img alt="PostgreSQL" src="./img/postgres.png" width="30" />
+  &nbsp;&nbsp;
+  <img alt="MongoDB" src="./img/mongodb.png" width="30" />
+  &nbsp;&nbsp;
+  <img alt="Git" src="./img/git.png" width="30" />
+  &nbsp;&nbsp;
+  <img alt="Github" src="./img/github.png" width="30" />
+  &nbsp;&nbsp;
+  <img alt="Oracle" src="./img/oracle.png" width="30" />
+  &nbsp;&nbsp;
+  <img alt="Docker" src="./img/docker.png" width="30" />
+  &nbsp;&nbsp;
+  <img alt="Nginx" src="./img/nginx.png" width="30" />
+</p>
