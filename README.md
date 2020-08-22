@@ -5,29 +5,29 @@
 <h3>Things I code with</h3>
 <br/>
 <p>
-  <img alt="PHP" src="./img/php.png" width="30" />
+  <img alt="PHP" src="./img/php.png" width="40" />
   &nbsp;&nbsp;
   <img alt="Laravel" src="./img/laravel.png" width="30" />
   &nbsp;&nbsp;
   <img alt="Javascript" src="./img/js.png" width="30" />
   &nbsp;&nbsp;
-  <img alt="MySQL" src="./img/mysql.png" width="30" />
+  <img alt="MySQL" src="./img/mysql.png" width="50" />
   &nbsp;&nbsp;
   <img alt="Redis" src="./img/redis.png" width="30" />
   &nbsp;&nbsp;
-  <img alt="Node JS" src="./img/nodejs.png" width="30" />
+  <img alt="Node JS" src="./img/nodejs.png" width="70" />
   &nbsp;&nbsp;
   <img alt="PostgreSQL" src="./img/postgres.png" width="30" />
   &nbsp;&nbsp;
-  <img alt="MongoDB" src="./img/mongodb.png" width="30" />
+  <img alt="MongoDB" src="./img/mongodb.png" width="70" />
   &nbsp;&nbsp;
   <img alt="Git" src="./img/git.png" width="30" />
   &nbsp;&nbsp;
   <img alt="Github" src="./img/github.png" width="30" />
   &nbsp;&nbsp;
-  <img alt="Oracle" src="./img/oracle.png" width="30" />
+  <img alt="Oracle" src="./img/oracle.png" width="70" />
   &nbsp;&nbsp;
   <img alt="Docker" src="./img/docker.png" width="30" />
   &nbsp;&nbsp;
-  <img alt="Nginx" src="./img/nginx.png" width="30" />
+  <img alt="Nginx" src="./img/nginx.png" width="60" />
 </p>
