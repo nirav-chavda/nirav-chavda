@@ -27,7 +27,7 @@
   &nbsp;&nbsp;
   <img alt="Github" src="https://github.com/nirav-chavda/nirav-chavda/blob/master/img/github.png" width="30" />
   &nbsp;&nbsp;
-  <img alt="Oracle" src="https://github.com/nirav-chavda/nirav-chavda/blob/master/img/oracle.png" width="70" />
+  <img alt="Rails" src="https://github.com/nirav-chavda/nirav-chavda/blob/master/img/rails.png" width="70" />
   &nbsp;&nbsp;
   <img alt="Docker" src="https://github.com/nirav-chavda/nirav-chavda/blob/master/img/docker.png" width="30" />
   &nbsp;&nbsp;
