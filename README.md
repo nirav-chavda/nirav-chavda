@@ -33,3 +33,7 @@
   &nbsp;&nbsp;
   <img alt="Nginx" src="https://github.com/nirav-chavda/nirav-chavda/blob/master/img/nginx.png" width="60" />
 </p>
+<hr/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=nirav-chavda&show_icons=true" />
+ </p>
