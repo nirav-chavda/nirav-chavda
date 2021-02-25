@@ -21,16 +21,16 @@
   &nbsp;&nbsp;
   <img alt="PostgreSQL" src="https://github.com/nirav-chavda/nirav-chavda/blob/master/img/postgres.png" width="30" />
   &nbsp;&nbsp;
-  <img alt="MongoDB" src="https://github.com/nirav-chavda/nirav-chavda/blob/master/img/mongodb.png" width="70" />
-  &nbsp;&nbsp;
+<!--   <img alt="MongoDB" src="https://github.com/nirav-chavda/nirav-chavda/blob/master/img/mongodb.png" width="70" /> -->
+<!--   &nbsp;&nbsp; -->
   <img alt="Git" src="https://github.com/nirav-chavda/nirav-chavda/blob/master/img/git.png" width="30" />
   &nbsp;&nbsp;
   <img alt="Github" src="https://github.com/nirav-chavda/nirav-chavda/blob/master/img/github.png" width="30" />
   &nbsp;&nbsp;
   <img alt="Rails" src="https://github.com/nirav-chavda/nirav-chavda/blob/master/img/rails.png" width="30" />
   &nbsp;&nbsp;
-  <img alt="Docker" src="https://github.com/nirav-chavda/nirav-chavda/blob/master/img/docker.png" width="30" />
-  &nbsp;&nbsp;
+<!--   <img alt="Docker" src="https://github.com/nirav-chavda/nirav-chavda/blob/master/img/docker.png" width="30" /> -->
+<!--   &nbsp;&nbsp; -->
   <img alt="Nginx" src="https://github.com/nirav-chavda/nirav-chavda/blob/master/img/nginx.png" width="60" />
 </p>
 <hr/>
